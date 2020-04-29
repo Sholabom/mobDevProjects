@@ -1,6 +1,6 @@
 # mobDevProjects
 
-This project is an app that helps generate random unique words from the english dictionary.
+This project is an app written in dart/flutter that helps generate random unique words from the english dictionary.
 
 It acheives this by adding two regular words together from the english dictionary to create a new unique word
 
